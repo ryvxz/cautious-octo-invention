@@ -1,6 +1,6 @@
-CREATE DATABASE social_media_db;
+CREATE DATABASE webappdb;
 
-USE social_media_db;
+USE webappdb;
 
 CREATE TABLE account (
     user_name VARCHAR(50) PRIMARY KEY,
